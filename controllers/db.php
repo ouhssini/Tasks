@@ -7,8 +7,6 @@ class Connection
     private $database = "Tasks";
     private $con;
 
-
-
     //  ----------------------------------------------------------------
     // the constructor is called when a new object is created and handle database connection
     public function __construct()
