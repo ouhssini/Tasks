@@ -1,0 +1,1 @@
+// all ajax requests will goes here
